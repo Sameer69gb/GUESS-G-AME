@@ -1,11 +1,3 @@
-CHECK MY CODE
-
-
-
-
-
-
-
 #include<stdio.h>
 
 int main()
